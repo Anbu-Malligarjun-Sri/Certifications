@@ -1,3 +1,5 @@
-## 🎓 AI-ML Internship Certificate
+## 🎓 AI-ML Internship Certificate (BITS Pilani, June–July 2025)
 
-![AI-ML Certificate](./AI-ML_Anbu-Malligarjun-Sri.jpg)
+I recently completed a 7-week AI-ML internship held at BITS Pilani, Hyderabad Campus, organized by BharatVersity and partners.
+
+![AI-ML Certificate](https://github.com/your-username/Certifications/blob/main/AI-ML_Anbu_Malligarjun_Sri.jpg?raw=true)
