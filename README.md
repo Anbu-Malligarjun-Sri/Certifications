@@ -1,3 +1,3 @@
 ## 🎓 AI-ML Internship Certificate
 
-![Certifications](./Certifications_Anbu_Malligarjun_Sri.jpg)
+![AI-ML Certificate](./AI-ML_Anbu_Malligarjun_Sri.jpg)
