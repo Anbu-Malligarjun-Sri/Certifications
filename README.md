@@ -1,2 +1,3 @@
-# Certifications
-My AI-ML Internship Certificate from BITS Pilani (June–July 2025)
+## 🎓 AI-ML Internship Certificate
+
+![Certifications](./Certifications_Anbu_Malligarjun_Sri.jpg)
